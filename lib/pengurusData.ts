@@ -93,7 +93,7 @@ export const DATA_PENGURUS = [
 
 // Konfigurasi untuk menampilkan/menyembunyikan section Agenda & Absensi
 // Ubah nilai SHOW_AGENDA_SECTION menjadi true untuk menampilkan, false untuk menyembunyikan
-export const SHOW_AGENDA_SECTION = false;
+export const SHOW_AGENDA_SECTION = true;
 
 export const EVENTS = [
   {
